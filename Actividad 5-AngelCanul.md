@@ -1,6 +1,7 @@
 # fundamentos-de-Algebra
-![]( ./tareadealgebre.pdf)
-![]( ./tareadeálgebra.pdf)
+
+<img width="877" height="684" alt="fb78bb21-445e-4347-8407-bd8bbe93600b" src="https://github.com/user-attachments/assets/17bf17e6-6048-4239-a130-e181ca03d435" />
+
 **25)** (-7 - 4i) - (2 + i)
 = -7 - 4i - 2 - i
 = (-7 - 2) + (-4i - i)
