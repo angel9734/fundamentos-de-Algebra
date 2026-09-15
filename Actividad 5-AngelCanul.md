@@ -1,4 +1,5 @@
 # fundamentos-de-Algebra
+![]( ./tareadealgebre.pdf)
 **25)** (-7 - 4i) - (2 + i)
 = -7 - 4i - 2 - i
 = (-7 - 2) + (-4i - i)
