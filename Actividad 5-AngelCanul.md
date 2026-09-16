@@ -201,31 +201,28 @@ r^(1/3) = 8^(1/3) = 2
 - z₁ = **2(cos 165° + i sen 165°)**
 - z₂ = **2(cos 285° + i sen 285°)**
 
-**70)** 3 raíces cúbicas de -27/8
-En polar: r = 27/8, θ = 180°
-r^(1/3) = (27/8)^(1/3) = 3/2
-θₖ = (180 + 360k)/3 → k=0: 60° | k=1: 180° | k=2: 300°
-- z₀ = **1.5(cos 60° + i sen 60°)**
-- z₁ = **1.5(cos 180° + i sen 180°) = -1.5**
-- z₂ = **1.5(cos 300° + i sen 300°)**
-
-**71)** 5 raíces de -32i
-En polar: r = 32, θ = 270° 
-r^(1/5) = 32^(1/5) = 2
-θₖ = (270 + 360k)/5 → k=0: 54° | k=1: 126° | k=2: 198° | k=3: 270° | k=4: 342°
-- z₀ = **2(cos 54° + i sen 54°)**
-- z₁ = **2(cos 126° + i sen 126°)**
-- z₂ = **2(cos 198° + i sen 198°)**
-- z₃ = **2(cos 270° + i sen 270°)**
-- z₄ = **2(cos 342° + i sen 342°)**
-
-**72)** 6 raíces de 729
-En polar: r = 729, θ = 0° 
-r^(1/6) = 729^(1/6) = 3   (ya que 3⁶ = 729)
-θₖ = (0 + 360k)/6 → k=0: 0° | k=1: 60° | k=2: 120° | k=3: 180° | k=4: 240° | k=5: 300°
-- z₀ = **3(cos 0° + i sen 0°) = 3**
-- z₁ = **3(cos 60° + i sen 60°)**
-- z₂ = **3(cos 120° + i sen 120°)**
-- z₃ = **3(cos 180° + i sen 180°) = -3**
-- z₄ = **3(cos 240° + i sen 240°)**
-- z₅ = **3(cos 300° + i sen 300°)**
+*70)* 3 raíces cúbicas de $-\frac{27}{8}$  
+* $r = \frac{27}{8}$, $\theta = 180^\circ$  
+$$\sqrt[3]{\frac{27}{8}} = \frac{3}{2}, \quad \theta_k = \frac{180^\circ + 360^\circ k}{3}$$
+* $w_0 = \frac{3}{2}(\cos 60^\circ + i\sin 60^\circ)$  
+* $w_1 = \frac{3}{2}(\cos 180^\circ + i\sin 180^\circ)$  
+* $w_2 = \frac{3}{2}(\cos 300^\circ + i\sin 300^\circ)$
+ 
+*71)* 5 raíces de $-32i$  
+* $r = 32$, $\theta = 270^\circ$  
+$$\sqrt[5]{32} = 2, \quad \theta_k = \frac{270^\circ + 360^\circ k}{5}$$
+* $w_0 = 2(\cos 54^\circ + i\sin 54^\circ)$  
+* $w_1 = 2(\cos 126^\circ + i\sin 126^\circ)$  
+* $w_2 = 2(\cos 198^\circ + i\sin 198^\circ)$  
+* $w_3 = 2(\cos 270^\circ + i\sin 270^\circ)$  
+* $w_4 = 2(\cos 342^\circ + i\sin 342^\circ)$
+ 
+*72)* 6 raíces de $729$  
+* $r = 729$, $\theta = 0^\circ$  
+$$\sqrt[6]{729} = 3, \quad \theta_k = \frac{360^\circ k}{6} = 60^\circ k$$
+* $w_0 = 3(\cos 0^\circ + i\sin 0^\circ) = 3$  
+* $w_1 = 3(\cos 60^\circ + i\sin 60^\circ)$  
+* $w_2 = 3(\cos 120^\circ + i\sin 120^\circ)$  
+* $w_3 = 3(\cos 180^\circ + i\sin 180^\circ) = -3$  
+* $w_4 = 3(\cos 240^\circ + i\sin 240^\circ)$  
+* $w_5 = 3(\cos 300^\circ + i\sin 300^\circ)$
